@@ -1,11 +1,14 @@
 .footer {
-	align-items: center;
-	background-color: white;
 	border-top: 1px solid #CCCCCC;
-	display: flex;
+	text-align: center;
+	background-color: #ffffff;
 	height: 60px;
-	justify-content: center;
 	width: 100%;
+	bottom: 0;
+	justify-content: center;
+	position: relative;
+	align-items: center;
+	display: flex;
 }
 
 .footer-absolute {
